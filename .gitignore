@@ -51,6 +51,7 @@ src/**/debian/autoreconf.*
 src/**/debian/build/
 src/**/debian/files
 src/**/debian/stamp-autotools-files
+src/sonic-frr/frr
 
 # .o files
 src/**/*.o
